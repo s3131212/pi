@@ -14,5 +14,5 @@ It can install through npm
 $ npm install decimal.js
 ```
 
-###License
+### License
 [Do whatever you want to.](https://github.com/s3131212/pi/blob/master/LICENSE) :)
